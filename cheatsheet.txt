@@ -1,0 +1,9 @@
+Local 
+
+Install Netlify CLI: 
+
+  npm install netlify-cli -g
+
+Start local development server in repo directory
+
+  netlify dev
